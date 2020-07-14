@@ -1,6 +1,7 @@
 package sentry
 
 import (
+	"time"
 	"github.com/getsentry/sentry-go"
 	"github.com/sirupsen/logrus"
 )
